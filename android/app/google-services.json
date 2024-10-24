@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180845982486",
+    "project_id": "todochat-8993c",
+    "storage_bucket": "todochat-8993c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180845982486:android:3f6f409544fe351d679637",
+        "android_client_info": {
+          "package_name": "com.sireat.todochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCebU30PHRdtng5KWg7lvDHRpClg4WwuiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
